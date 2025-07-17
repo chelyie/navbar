@@ -1,6 +1,6 @@
 import React from "react";
-import Navbar from "./Navbar";
-import SearchBar from "./SearchBar";
+import Navbar from "./components/Navbar";
+import SearchBar from "./components/SearchBar";
 
 function App() {
   const handleLogout = () => {
