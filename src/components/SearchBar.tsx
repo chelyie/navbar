@@ -26,8 +26,8 @@ const SearchBar: React.FC<SearchBarProps> = ({
       <div className="w-full max-w-[800px] relative flex items-center">
         <div className="absolute left-4 flex items-center justify-center">
           <img
-            src="/search-icon.png"
-            alt="search-icon"
+            src="/CepSearch.png"
+            alt="search"
             className="w-5 h-5 object-contain"
           />
         </div>
